@@ -1,6 +1,3 @@
-9-C Ömer Faruk Yıldız 579 
-9-C Ömer Faruk Yıldız 593 
-9-C Emin Erdem Gergerglioğlu 650
 
 | Sınıf      | İsim          | No |
 | ------------- |:-------------:| -----:|
