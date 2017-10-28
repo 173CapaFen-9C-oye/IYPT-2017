@@ -1,12 +1,12 @@
 9-C Ömer Faruk Yıldız 579 
-9-C Yüksel Kalemoğlu 593 
+9-C Ömer Faruk Yıldız 593 
 9-C Emin Erdem Gergerglioğlu 650
 
-| sınıf      | isim          | no |
+| Sınıf      | İsim          | No |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| 9-C | Ömer Faruk Yıldız | 579 |
+| 9-C | Yüksel Kalemoğlu    |   593 |
+| 9-C | Emin Erdem Gergerglioğlu      | 650 |
 
 ## ACOUSTIC LEVITATION
 
