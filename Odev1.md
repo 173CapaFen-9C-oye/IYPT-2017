@@ -4,7 +4,8 @@
 
 ## ACOUSTIC LEVITATION
 
-### Özet
+Özet
+------
 
 Uzay boşluğunda olmadığımız sürece ses her gün etrafımızdadır. Ama çoğu zaman ounun fiziksel varlığını hissetmeyiz. Onu duyarız fakat ona dokunamayız. 
 Sesin somut cisimleri kaldırma fikri inanılmaz gözükebilir ama bir o kadarda gerçek. ‘’Acoustic levitation’’ sesten faydalanarak katıların, sıvıların ve ağır gazların süzülmesini sağlar. Bu süreç başka dünyalarda farklı yerçekimsel ortamlardada gerçekleşebilir. Başka bir deyişle ses uzaydaki gaz dolu bir ortamdada cisimleri hareket ettirebilir. 
